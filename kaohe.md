@@ -83,4 +83,5 @@
   - 链接1（操场）：https://b23.tv/PYP6wxX
   - 链接2（锥桶-室内一楼）：https://b23.tv/RXP2YAI
   - 链接3（锥桶-室内二楼）：https://b23.tv/0t4Cixn
-  - 链接3（锥桶-室外）：https://b23.tv/5SYFPIJ
+  - 链接4（锥桶-室外）：https://b23.tv/5SYFPIJ
+  - 注：现在一部分视频可直接从github上下载
